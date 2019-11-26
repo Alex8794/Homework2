@@ -1,0 +1,53 @@
+body{
+    background-image: url(ч.квадрат.jpg);
+    max-width: 960px;
+}
+div {
+    border:5px solid red;
+    padding: 5px 15px;
+
+
+} 
+.a{
+    background-color: royalblue;
+    padding: 50px;
+    border-radius:20px 20px 20px 20px 
+
+}
+.d
+{
+    background-color: saddlebrown;
+    padding: 100px;
+    
+    
+}
+.b
+{
+    background-color: seagreen;
+    padding: 60px;
+    border-radius:20px 20px 20px 20px  ;
+
+}
+.c{  float: left;
+    padding: 200px;
+    background-color: seashell;}
+    
+    .i{padding: 25px;
+        background-color: slateblue;
+        
+    }
+    .f{padding: 300px;
+        background-color: slategrey;
+        border-radius: 100px 100px 100px 100px ;
+    }
+.g
+{   float: unset;
+    padding: 150px;
+    background-color: violet;}
+.j{ float: right;
+    padding: 75px;
+    background-color: yellow;
+border-radius: 50px 50px 50px 50px ;
+}
+    
+
