@@ -1,0 +1,30 @@
+header{
+    margin: 15% 5% 0%;
+    background-color: blueviolet;
+    border-radius: 0% 0% 10% 10%;
+    
+}
+.blok1{
+    z-index: 1;
+     width: 10%;
+     height: 600px;
+     background-color: green;
+     opacity: 0.5;
+
+     position:fixed
+     
+    
+    
+}
+.blok2{
+    margin:0% 10% 0% ; 
+}
+footer{
+    margin: 15% 5% 0%;
+    background-color: rgb(32, 51, 226);
+    border-radius: 10% 10% 0% 0%;
+
+}
+p{
+    
+}
